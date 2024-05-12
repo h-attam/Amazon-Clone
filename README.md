@@ -13,11 +13,6 @@ JS ile aşağıdaki özelliklerde geliştirilebilir.
 -HTML
 -CSS
 
-# Ekran Görüntüleri
-![](images/Ekran%20Alıntısı1.PNG)
-![](images/Ekran%20Alıntısı2.PNG)
-![](images/Ekran%20Alıntısı3.PNG)
-
 # GIF
 ![](images/amazongif.gif)
 
